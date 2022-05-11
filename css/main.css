@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(251, 255, 20);
+}
+.Pokemon-item{
+  background-color: rgb(143, 255, 79);
+}
